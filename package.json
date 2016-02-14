@@ -1,0 +1,31 @@
+{
+  "name": "three-noise-shader-material",
+  "version": "1.0.0",
+  "description": "provides a THREE.ShaderMaterial preconfigured to display 3d noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-doge/three-noise-shader-material.git"
+  },
+  "keywords": [
+    "threex",
+    "threex.noiseshadermaterial",
+    "noiseshadermaterial",
+    "shadermaterial",
+    "shader",
+    "material",
+    "three.js",
+    "three",
+    "threejs",
+    "noise"
+  ],
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/data-doge/three-noise-shader-material/issues"
+  },
+  "homepage": "https://github.com/data-doge/three-noise-shader-material#readme"
+}
