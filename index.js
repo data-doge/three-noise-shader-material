@@ -1,5 +1,9 @@
 module.exports = function (THREE) {
 
+  /**
+   * @author jeromeetienne / https://github.com/jeromeetienne
+   */
+
   NoiseShaderMaterial	= function(opts){
   	opts	= opts	|| {}
   	opts.vertexShader	= opts.vertexShader	|| NoiseShaderMaterial.vertexShader
