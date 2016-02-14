@@ -1,6 +1,6 @@
 {
   "name": "three-noise-shader-material",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "provides a THREE.ShaderMaterial preconfigured to display 3d noise",
   "main": "index.js",
   "scripts": {
